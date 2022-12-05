@@ -7,3 +7,4 @@ for (let i = 1; i <= 10; i++) {
 }
 console.log("끝났다");
 console.log(`숫자들의 합은 ${sum} 입니다.`);
+console.log("git add");
